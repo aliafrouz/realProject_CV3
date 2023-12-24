@@ -5,9 +5,9 @@
 
 
 
-- [Demo Project](https://aliafrouz.github.io/realProject_CV3/)
+- [Demo Project](https://alinajafi-developer.github.io/realProject_CV3/)
 
-- Developed by Ali Afrouz
+- Developed by Ali Najafi
 
 - Created - 2023-02-12
 
@@ -17,4 +17,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/aliafrouz_com) and [linkedin](https://www.linkedin.com/in/aliafrouz/)
+- How to reach me : with my [instagram](https://www.instagram.com/alinajafi_developer) and [linkedin](https://www.linkedin.com/in/alinajafi-developer/)
