@@ -1,19 +1,15 @@
 # realProject_CV3
 
 
-![3](https://github.com/aliafrouz/realProject_CV3/assets/147813870/95eb85ce-4c3e-4f17-8b2f-739437d26f5b)
 
 
-
-- [Demo Project](https://alinajafi-developer.github.io/realProject_CV3/)
+- [Demo Project][(https://alinajafi-developer.github.io/realProject_CV3/)](https://alinajafi-developer.github.io/oldcv/)
 
 - Developed by Ali Najafi
 
-- Created - 2023-02-12
+- Created - 2022-02-12
 
-- Technologies Used - Html5 , css3, Tailwind
-
-- Hooks Used : useState 
+- Technologies Used - Html5 , css3, Bootstrap
 
 - Role - Frontend
 
